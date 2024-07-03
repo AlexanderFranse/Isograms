@@ -1,0 +1,4 @@
+- Isogram contains letters only 
+- Isogram does ignore letter case
+- Isogram does not contain duplicate letters
+- Isogram is an empty string
